@@ -12,12 +12,12 @@ Durante o projeto, também serão realizados testes utilizando uma aplicação v
 
 ## 2- Ambiente utilizado<br><br>
 
-Sistema operacional: Ubuntu; 
-Linguagem de programação: Python; 
-Editor de código: Visual Studio Code; 
-Agente: DIO Agent; 
-Harness: Hermes; 
-Repositório base: digitalinnovationone/dio-agent.
+Sistema operacional: Ubuntu; <br>
+Linguagem de programação: Python; <br>
+Editor de código: Visual Studio Code; <br>
+Agente: DIO Agent; <br>
+Harness: Hermes; <br>
+Repositório base: digitalinnovationone/dio-agent.<br>
 
 ---
 
